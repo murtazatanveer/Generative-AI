@@ -1,0 +1,5 @@
+.env
+pineconeenv/
+__pycache__/
+pakHistory.txt
+fastAPI.txt
